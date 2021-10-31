@@ -1,7 +1,7 @@
 # Digital Clock
 **A Simple Digital clock maded using JS , HTML & CSS to set alarm and to view current time .**
 
-![preview](images/preview.png)
+![preview](preview.png)
 
 ### Try Now 
 
